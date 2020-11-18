@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Reverse Integer", "7. Reverse Integer\7. Reverse Integer.csproj", "{E050E58B-FE78-4475-B3BB-0747A32632E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Palindrome Number", "9. Palindrome Number\9. Palindrome Number.csproj", "{46FB5D5E-DF24-4478-8A5B-E1EF32F5FFD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9. Palindrome Number", "9. Palindrome Number\9. Palindrome Number.csproj", "{46FB5D5E-DF24-4478-8A5B-E1EF32F5FFD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Roman to Integer", "13. Roman to Integer\13. Roman to Integer.csproj", "{D90A0AC3-D677-424B-B2C0-4E4E0AF17FEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Roman to Integer", "13. Roman to Integer\13. Roman to Integer.csproj", "{D90A0AC3-D677-424B-B2C0-4E4E0AF17FEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Longest Common Prefix", "14. Longest Common Prefix\14. Longest Common Prefix.csproj", "{75FCD1C0-7AB5-4583-80DB-61EE48334850}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D90A0AC3-D677-424B-B2C0-4E4E0AF17FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D90A0AC3-D677-424B-B2C0-4E4E0AF17FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D90A0AC3-D677-424B-B2C0-4E4E0AF17FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FCD1C0-7AB5-4583-80DB-61EE48334850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FCD1C0-7AB5-4583-80DB-61EE48334850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FCD1C0-7AB5-4583-80DB-61EE48334850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FCD1C0-7AB5-4583-80DB-61EE48334850}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
