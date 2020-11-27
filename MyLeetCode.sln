@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9. Palindrome Number", "9. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Roman to Integer", "13. Roman to Integer\13. Roman to Integer.csproj", "{D90A0AC3-D677-424B-B2C0-4E4E0AF17FEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Longest Common Prefix", "14. Longest Common Prefix\14. Longest Common Prefix.csproj", "{75FCD1C0-7AB5-4583-80DB-61EE48334850}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14. Longest Common Prefix", "14. Longest Common Prefix\14. Longest Common Prefix.csproj", "{75FCD1C0-7AB5-4583-80DB-61EE48334850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480. Running Sum of 1d Array", "1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.csproj", "{417CB46A-6056-4C54-90B3-12BC2A3BF588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1431. Kids With the Greatest Number of Candies", "1431. Kids With the Greatest Number of Candies\1431. Kids With the Greatest Number of Candies.csproj", "{50848034-FFC3-49AD-99BA-F71B6945E027}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{75FCD1C0-7AB5-4583-80DB-61EE48334850}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75FCD1C0-7AB5-4583-80DB-61EE48334850}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75FCD1C0-7AB5-4583-80DB-61EE48334850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{417CB46A-6056-4C54-90B3-12BC2A3BF588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417CB46A-6056-4C54-90B3-12BC2A3BF588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417CB46A-6056-4C54-90B3-12BC2A3BF588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417CB46A-6056-4C54-90B3-12BC2A3BF588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50848034-FFC3-49AD-99BA-F71B6945E027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50848034-FFC3-49AD-99BA-F71B6945E027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50848034-FFC3-49AD-99BA-F71B6945E027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50848034-FFC3-49AD-99BA-F71B6945E027}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
