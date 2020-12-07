@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Roman to Integer", "13.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14. Longest Common Prefix", "14. Longest Common Prefix\14. Longest Common Prefix.csproj", "{75FCD1C0-7AB5-4583-80DB-61EE48334850}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480. Running Sum of 1d Array", "1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.csproj", "{417CB46A-6056-4C54-90B3-12BC2A3BF588}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1480. Running Sum of 1d Array", "1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.csproj", "{417CB46A-6056-4C54-90B3-12BC2A3BF588}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1431. Kids With the Greatest Number of Candies", "1431. Kids With the Greatest Number of Candies\1431. Kids With the Greatest Number of Candies.csproj", "{50848034-FFC3-49AD-99BA-F71B6945E027}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1431. Kids With the Greatest Number of Candies", "1431. Kids With the Greatest Number of Candies\1431. Kids With the Greatest Number of Candies.csproj", "{50848034-FFC3-49AD-99BA-F71B6945E027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53. Maximum Subarray", "53. Maximum Subarray\53. Maximum Subarray.csproj", "{FAAF6A13-6988-44C0-BC33-88E10D540AA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{50848034-FFC3-49AD-99BA-F71B6945E027}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50848034-FFC3-49AD-99BA-F71B6945E027}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50848034-FFC3-49AD-99BA-F71B6945E027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAAF6A13-6988-44C0-BC33-88E10D540AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAF6A13-6988-44C0-BC33-88E10D540AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAF6A13-6988-44C0-BC33-88E10D540AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAF6A13-6988-44C0-BC33-88E10D540AA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
