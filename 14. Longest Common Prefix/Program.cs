@@ -15,24 +15,23 @@ namespace _14._Longest_Common_Prefix
 
         public static string LongestCommonPrefix(string[] strs)
         {
-            string minLengthString = strs.Min();
-
-            string commonPrefix = string.Empty;
-
-            for (int i = 0; i < minLengthString.Length; i++)
+            if (strs.Length == 0)
             {
-                commonPrefix = string.Concat(commonPrefix, strs[0][i]);
+                return string.Empty;
+            }
 
-                for (int j = 1; j < 3; j++)
+            for (int i = 0; i < strs[0].Length; i++)
+            {
+                for (int j = 1; j < strs.Length; j++)
                 {
-                    if (!strs[j][i].ToString().Equals(commonPrefix[i].ToString()))
+                    if (strs[j].Length == i || strs[j][i] != strs[0][i])
                     {
-                        return commonPrefix.Remove(i);
+                        return strs[0].Substring(0, i);
                     }
                 }
             }
 
-            return commonPrefix;
+            return strs[0];
         }
     }
 }
